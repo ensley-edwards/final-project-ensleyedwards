@@ -98,6 +98,10 @@ footer {
     font-family: "Lemon", serif;
 }
 
+.footer-top p {
+    font-family: "Comfortaa", sans-serif;
+}
+
 .footer-top div {
     flex: 1 1 160px;
 }
