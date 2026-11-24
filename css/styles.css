@@ -36,7 +36,7 @@ nav {
     padding: 16px 32px;
     font-family: "Lemon", serif;
     background-color: #000000;
-    color: ;
+    color: #b14d9d;
 }
 
 .logo-img {
@@ -87,7 +87,15 @@ button {
 
 /* Footer */
 footer {
-    background-color: ;
+    background-color: #000000;
+}
+
+footer h3 {
+    color: #b14d9d;
+}
+
+.footer-top img {
+
 }
 
 .footer-top {
