@@ -1,6 +1,8 @@
 /* Base */
 * {
     box-sizing: border-box;
+    background-color: #000000;
+    color: #ffffff;
 }
 
 body {
