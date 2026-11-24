@@ -131,7 +131,7 @@ footer h3 {
 .footer-bottom {
     text-align: center;
     padding: 16px;
-    border-top: 1px solid #ede20f;
+    border-top: 1px solid #35a9e0;
     font-family: "Comfortaa", sans-serif;
 }
 
@@ -145,6 +145,7 @@ footer h3 {
     max-width: 1200px;
     margin: 0 auto;
     padding: 48px 16px;
+    font-family: "Comfortaa", sans-serif;
 }
 
 .hero-content {
@@ -160,4 +161,6 @@ footer h3 {
     font-size: 64px;
     line-height: 1.1;
     margin: 0 0 16px;
+    font-family: "Lemon", serif;
+    color: #ede20f;
 }
